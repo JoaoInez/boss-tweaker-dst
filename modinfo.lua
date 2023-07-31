@@ -6,7 +6,7 @@ icon = "modicon.tex"
 name = "Boss Tweaker"
 description = "Tweak bosses' health and damage."
 author = "astherae"
-version = "1.1"
+version = "1.2"
 
 dont_starve_compatible = false
 reign_of_giants_compatible = false
